@@ -1,0 +1,15 @@
+#output{
+
+	background-color:lightblue;
+	border:0.1em solid #E6E6E6;
+	border-radius: .4em;
+	padding: 2em;
+	margin-bottom: 1em;
+	width: 50em;
+}
+#btn{
+	background-color: #009688;
+	border-radius: 0.5em;
+	color:white;
+	padding:.5em;
+}
